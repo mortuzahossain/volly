@@ -66,8 +66,8 @@ public class AppController extends Application {
             mRequestQueue.cancelAll(tag);
         }
     }
-} ```
-
+}
+```
 
 ## In the manifest file give
 	1. Internet permission and 
