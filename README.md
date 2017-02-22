@@ -11,7 +11,7 @@ open build.gradle and add the dependency
 ## Now create a appcontroler.java file and past the code given bellow..
 
 
-```Java
+```java
 
 package com.wordpress.mortuzabaust.spamsender;
 
@@ -76,7 +76,7 @@ public class AppController extends Application {
 ## To access the data from mainactivity we have to write this type of 
 
 
-```Java
+```java
 
 package com.wordpress.mortuzabaust.spamsender;
 
@@ -171,7 +171,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## For Details Activity
 
-```Java
+```java
 
 package com.wordpress.mortuzabaust.spamsender;
 
